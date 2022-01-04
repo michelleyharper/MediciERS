@@ -76,12 +76,4 @@ To-do list:
 
 Getting Started
 -----
-WORK IN PROGRESS
-
-Usage
------
-WORK IN PROGRESS
-
-License
------
-WORK IN PROGRESS
+git clone `https://github.com/michelleyharper/MediciERS.git`
